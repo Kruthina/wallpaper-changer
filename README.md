@@ -1,0 +1,1 @@
+Python script that changes the wallpaper at regular intervals on a GNOME desktop environment using the gsettings command. The script uses a list of wallpapers from a specified directory and keeps track of the current wallpaper index and the last time the wallpaper was changed in a JSON file.
